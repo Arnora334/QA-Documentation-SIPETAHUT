@@ -4,13 +4,12 @@ Ringkasan hasil pengujian untuk fungsionalitas Login dan Lupa Password pada sist
 
 ## Ringkasan Eksekutif
 
-| Status           | Jumlah Kasus Uji |
-| ---------------- | ---------------- |
-| **Pass**         | **16**           |
-| **Fail**         | **0**            |
-| **Pending**      | **0**            |
-| **Total**        | **16**           |
-| **Success Rate** | **100%**         |
+| Status      | Jumlah Kasus Uji |
+| ----------- | ---------------- |
+| **Pass**    | **16**           |
+| **Fail**    | **0**            |
+| **Pending** | **0**            |
+| **Total**   | **16**           |
 
 ---
 
