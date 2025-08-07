@@ -20,7 +20,6 @@ Dokumen test case berisi langkah-langkah spesifik untuk menguji fungsi tertentu 
 Skenario pengujian menggambarkan bagaimana fitur diuji dari sudut pandang pengguna akhir (_end-user_), untuk memastikan sistem berjalan sesuai dengan kebutuhan pengguna dalam alur kerja yang kompleks.
 
 - **Skenario Fungsionalitas Umum:** Memastikan alur penggunaan utama sistem berjalan lancar dari awal hingga akhir.
-- _(Jika ada skenario lain dari "SCENARIO FIX", tambahkan detailnya di sini)_
 
 ---
 
