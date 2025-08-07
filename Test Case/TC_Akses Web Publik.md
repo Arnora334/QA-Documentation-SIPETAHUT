@@ -2,12 +2,13 @@
 
 **Ringkasan Pengujian:**
 
-| Status               | Jumlah |
-| -------------------- | ------ |
-| Pass                 | 26     |
-| Pending              | 0      |
-| Fail                 | 0      |
-| **Total Test Cases** | **26** |
+| Status           | Jumlah Kasus Uji |
+| ---------------- | ---------------- |
+| **Pass**         | **26**           |
+| **Fail**         | **0**            |
+| **Pending**      | **0**            |
+| **Total**        | **26**           |
+| **Success Rate** | **100%**         |
 
 ---
 
